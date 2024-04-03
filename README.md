@@ -14,7 +14,7 @@ Read me file uses markdown syntex to edit any text, formulas or codes.
 
 ## My favourite part of code
 
-```
+```java
 
     var temp = 15.1;
     
